@@ -61,7 +61,7 @@ La aplicación facilita realizar un **análisis exploratorio rápido e interacti
 
 🔗 Repositorio GitHub: https://github.com/OmarPV01/proyecto-final-streamlit.git
 
-☁️ Aplicación en Streamlit Cloud: 
+☁️ Aplicación en Streamlit Cloud: https://proyecto-final-app-adrt93uywcuq9v2mixesg7.streamlit.app/
 
 ---
 
